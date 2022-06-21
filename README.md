@@ -13,7 +13,7 @@ crawl data by scrapy python
 * nltk
 * sklearn==0.0.13
 
-## step run
+## Step run
 	1/run ex.py to install NLTK
 	2/run scrawlvnexpress.py to crawl data from vnexpress.net
 	3/run minedata.py to perform computational requests
